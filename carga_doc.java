@@ -27,6 +27,7 @@ public class  carga_doc {
 	}
 
 	@Test
+	//ejemplo de subida de documento a página web
 	public void test() {
 		File file = new File("C:\\cover.jpg");
 		String path = file.getAbsolutePath();
